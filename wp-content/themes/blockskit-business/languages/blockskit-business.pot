@@ -1,0 +1,413 @@
+# Copyright (C) 2024 BlockskitDev
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blockskit Business 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/blockskit-business\n"
+"POT-Creation-Date: 2024-04-22 10:52:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: functions.php:48
+msgid "Blockskit Business Patterns"
+msgstr ""
+
+#: patterns/about.php:27
+msgid "INTRODUCTION OF US"
+msgstr ""
+
+#: patterns/about.php:31
+msgid "WE WORK TO ENSURE YOUR BUSINESS SUCCESS!!"
+msgstr ""
+
+#: patterns/about.php:35
+msgid "Varius nobis volutpat pharetra curae auctor eligendi consectetuer iusto fugiat ligula hic atque excepturi esse, nullam veniam voluptates lacinia ex facilisis voluptatum leo laborum. Dolores sapien non metusOdio aliqua."
+msgstr ""
+
+#: patterns/about.php:46
+msgid "Aliquam inventore magnam excepturi semper."
+msgstr ""
+
+#: patterns/about.php:56
+msgid "Nesciunt magni ullamcorper aenean vivamus."
+msgstr ""
+
+#: patterns/about.php:66
+msgid "Excepturi et ultrices ipsum, reprehenderit."
+msgstr ""
+
+#: patterns/about.php:76
+msgid "Incidunt autem sociosqu habitant. Curae."
+msgstr ""
+
+#: patterns/about.php:84
+msgid "25"
+msgstr ""
+
+#: patterns/about.php:88
+msgid "YEARS"
+msgstr ""
+
+#: patterns/about.php:92
+msgid "OF EXPERIENCE"
+msgstr ""
+
+#: patterns/about.php:100
+msgid "MORE ABOUT US"
+msgstr ""
+
+#: patterns/call.php:20
+msgid "COMMUNICATE WITH US"
+msgstr ""
+
+#: patterns/call.php:24
+msgid "WE PROVIDE BEST BUSINESS MANAGEMENT WITH UNITY"
+msgstr ""
+
+#: patterns/call.php:28
+msgid "Integer habitasse! Mus doloremque fringilla bibendum qui phasellus adipisci volutpat! Varius. Totam provident exercitationem!Curae magna at eget quisquam iusto duis dicta purus felis laboris accusamus periores similique, quis."
+msgstr ""
+
+#: patterns/call.php:43
+msgid "Best Experience"
+msgstr ""
+
+#: patterns/call.php:47 patterns/call.php:69
+msgid "Nemo quo dolorum iste fames nihil aenean."
+msgstr ""
+
+#: patterns/call.php:65
+msgid "Free Consultation"
+msgstr ""
+
+#: patterns/call.php:85
+msgid "For Further Informations"
+msgstr ""
+
+#: patterns/call.php:89
+msgid "+896 236 4569"
+msgstr ""
+
+#: patterns/call.php:93
+msgid "Nostra taciti fusce viverra egestas amet porro nonummy interdum quaerat blandit turpis quibusdam repudian."
+msgstr ""
+
+#: patterns/commitment.php:20
+msgid "OUR COMMITMENT"
+msgstr ""
+
+#: patterns/commitment.php:24
+msgid "YOUR BUSINESS GOALS ARE OUR TOP PRIORITY"
+msgstr ""
+
+#: patterns/commitment.php:30
+msgid "Erat anim mollis facilis aenean cupiditate eum. Turpis nesciunt cupiditate varius lorem nostrum ullamcorper! Praesent aliqua eros voluptatibus. Do voluptatum magnis, ? Venenatis nesciunt aenean eleifend itaque netus."
+msgstr ""
+
+#: patterns/commitment.php:43
+msgid "15+"
+msgstr ""
+
+#: patterns/commitment.php:47
+msgid "Years Of Industry Experience"
+msgstr ""
+
+#: patterns/commitment.php:59
+msgid "250"
+msgstr ""
+
+#: patterns/commitment.php:63
+msgid "Digital Projects Completed"
+msgstr ""
+
+#: patterns/commitment.php:75
+msgid "300"
+msgstr ""
+
+#: patterns/commitment.php:79
+msgid "Data Transferred Monthly"
+msgstr ""
+
+#: patterns/commitment.php:91
+msgid "450+"
+msgstr ""
+
+#: patterns/commitment.php:95
+msgid "Certified Financial Advisors"
+msgstr ""
+
+#: patterns/footer.php:20
+msgid "Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat lorem lacinia sagittis non pretium."
+msgstr ""
+
+#: patterns/footer.php:38
+msgid "Products"
+msgstr ""
+
+#: patterns/footer.php:46
+msgid "Company"
+msgstr ""
+
+#: patterns/footer.php:58
+msgid "Resources"
+msgstr ""
+
+#: patterns/footer.php:66
+msgid "Support"
+msgstr ""
+
+#: patterns/footer.php:77
+msgid "Copyright © 2024 ·"
+msgstr ""
+
+#: patterns/footer.php:83
+msgid "· All rights reserved"
+msgstr ""
+
+#: patterns/header.php:19
+msgid " info@example.com"
+msgstr ""
+
+#: patterns/header.php:23
+msgid " Rock Street, San Francisco"
+msgstr ""
+
+#: patterns/header.php:46
+msgid "GET A QUOTE"
+msgstr ""
+
+#: patterns/header.php:85
+msgid "CONTACT FOR INFO"
+msgstr ""
+
+#: patterns/header.php:89
+msgid "+21 356 552 8489"
+msgstr ""
+
+#: patterns/hero-banner.php:18
+msgid "TAKE YOUR BUSINESS TO NEXT LEVEL"
+msgstr ""
+
+#: patterns/hero-banner.php:22
+msgid "INNOVATE SOLUTON FOR BUSINESS"
+msgstr ""
+
+#: patterns/hero-banner.php:26
+msgid "Risus perspiciatis nullam magna. Rhoncus quam debitis blanditiis dis omnis faucibus asperiores dignissim dictumst, ipsam, tempor cillum varius nostra? Consequatur ducimus."
+msgstr ""
+
+#: patterns/hero-banner.php:31 patterns/phase.php:34
+msgid "HIRE US NOW"
+msgstr ""
+
+#: patterns/hero-banner.php:35
+msgid "LEARN MORE"
+msgstr ""
+
+#: patterns/latest-posts.php:18
+msgid "OUR LATEST POST"
+msgstr ""
+
+#: patterns/latest-posts.php:22
+msgid "CHECKOUT RECENT BLOGS"
+msgstr ""
+
+#: patterns/latest-posts.php:26 patterns/project.php:31 patterns/team.php:32
+msgid "Torquent facilisis habitasse eum, ratione, necessitatibus diam repellat aut quam euismod cum facilisis habitass facilisis habitasse eum."
+msgstr ""
+
+#: patterns/phase.php:21
+msgid "WORKING PHASE"
+msgstr ""
+
+#: patterns/phase.php:25
+msgid "3 EASY STEPS TO FOLLOW !"
+msgstr ""
+
+#: patterns/phase.php:29
+msgid "Torquent facilisis habitasse eum, ratione, necessitatibus diam repellat aut quam euismod cum facilisis habitass facilisis."
+msgstr ""
+
+#: patterns/phase.php:49
+msgid "Step One"
+msgstr ""
+
+#: patterns/phase.php:55
+msgid "Analysis Data"
+msgstr ""
+
+#: patterns/phase.php:59 patterns/phase.php:89 patterns/phase.php:119
+msgid "Odio sociis facilis proin wi wisi nec feugiat quiojouoi we. consectetur."
+msgstr ""
+
+#: patterns/phase.php:79
+msgid "Step Two"
+msgstr ""
+
+#: patterns/phase.php:85
+msgid "Plan Design"
+msgstr ""
+
+#: patterns/phase.php:109
+msgid "Step Three"
+msgstr ""
+
+#: patterns/phase.php:115
+msgid "Deploy Work"
+msgstr ""
+
+#: patterns/project.php:23
+msgid "OUR RECENT PROJECT"
+msgstr ""
+
+#: patterns/project.php:27
+msgid "EXPLORE RECENT PROJECTS"
+msgstr ""
+
+#: patterns/project.php:45
+msgid "DESIGN / DEVELOPMENT"
+msgstr ""
+
+#: patterns/project.php:49
+msgid "Redesign Of The Steel Industry Business"
+msgstr ""
+
+#: patterns/project.php:59
+msgid "TECHONOLOGY / DEVELOPMEN"
+msgstr ""
+
+#: patterns/project.php:63
+msgid "Academy In Medical Technology"
+msgstr ""
+
+#: patterns/project.php:73
+msgid "DESIGN / TECHONOLOGY"
+msgstr ""
+
+#: patterns/project.php:77
+msgid "Advance Semiconductor Industry Plans"
+msgstr ""
+
+#: patterns/project.php:86
+msgid "VIEW MORE PROJECTS"
+msgstr ""
+
+#: patterns/team.php:24
+msgid "OUR VALUABLE MEMBER"
+msgstr ""
+
+#: patterns/team.php:28
+msgid "TEAM MEMBER YOU CAN TRUST"
+msgstr ""
+
+#: patterns/team.php:50
+msgid "CEO, DIRECTOR"
+msgstr ""
+
+#: patterns/team.php:54
+msgid "William Smith"
+msgstr ""
+
+#: patterns/team.php:78
+msgid "CO-MANAGER"
+msgstr ""
+
+#: patterns/team.php:82
+msgid "Jenny Olison"
+msgstr ""
+
+#: patterns/team.php:106
+msgid "MANAGER"
+msgstr ""
+
+#: patterns/team.php:110
+msgid "John Shusten"
+msgstr ""
+
+#: patterns/team.php:134
+msgid "ACCOUNTANT"
+msgstr ""
+
+#: patterns/team.php:138
+msgid "Anusa Grey"
+msgstr ""
+
+#: patterns/team.php:157
+msgid "VIEW ALL MEMBER"
+msgstr ""
+
+#: patterns/template-404.php:24
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/template-cart.php:27 patterns/template-cart.php:90
+#: patterns/template-cart.php:153
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/template-cart.php:209
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/template-cart.php:213
+msgid "Browse store"
+msgstr ""
+
+#: patterns/template-cart.php:221
+msgid "New in store"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:22
+msgid "Order Confirmation"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:40
+msgid "Order details"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:48
+msgid "Downloads"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:58
+msgid "Shipping address"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:68
+msgid "Billing address"
+msgstr ""
+
+#: patterns/template-product-search-results.php:49
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: patterns/template-search.php:51
+msgid "Sorry, but nothing matched your search terms. Try another search?"
+msgstr ""
+
+#: patterns/template-single-product.php:58
+msgid "Related products"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Blockskit Business"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://blockskit.com/blockskit-business/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Blockskit Business is a modern and versatile WordPress theme designed for various types of websites including business, Business Agency, business coach, Business Consultant, business consulting, business solutions, business startup, business website, consulting business, consulting services, corporate business, financial business, multipurpose business, online business, startup business and more. It offers full-site-editing, allowing easy customization of all aspects of your site. With multiple templates, patterns, and style variations, it's suitable for different aesthetics. The theme is also compatible with popular plugins like Elementor, WooCommerce, and Spectra – WordPress Gutenberg Blocks, adding extra functionality to your site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "BlockskitDev"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blockskit.com"
+msgstr ""
